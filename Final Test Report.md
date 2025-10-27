@@ -11,10 +11,9 @@
 
 | Role | Name | Responsibilities |
 |------|------|------------------|
-| Test Manager | | Planning, scheduling, coordination, metric tracking |
-| Risk Analyst | | Risk identification, prioritization, test design linkage |
-| Test Executor | | Execution, evidence capture, defect logging |
-
+| Test Manager |Wamahiga Ng'ang'a| Planning, scheduling, coordination, metric tracking |
+| Risk Analyst |Vianne Ndagire | Risk identification, prioritization, test design linkage |
+| Test Executor |Lodrick Kibochi | Execution, evidence capture, defect logging |
 ## Group Rules
 
 - Each student must belong to only one group.
