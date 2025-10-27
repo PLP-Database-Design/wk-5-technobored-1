@@ -37,26 +37,50 @@
 ## Test Plan
 
 ### Objectives
+The main objectives of this testing phase are to:
+
+* Verify that all newly added features (Reset Game, Leaderboard, Bonus Round) meet functional requirements.
+* Ensure that user progress, scoring, and game state management behave consistently.
+* Detect and log defects early to minimize regression risks.
+* Prioritize high-risk functionalities based on likelihood and impact.
+* Achieve full coverage of critical and medium-risk test scenarios within the limited time frame.
+* 
+
 
 - 
 
-### Scope
+### ### 📦 **Scope**
 
-**In Scope:**
-- 
-
-**Out of Scope:**
+| **In Scope**                                                              | **Out of Scope**                       |
+| ------------------------------------------------------------------------- | -------------------------------------- |
+| Functional testing of new features (Reset Game, Leaderboard, Bonus Round) | Load/performance testing               |
+| UI validation (responsiveness, element visibility, usability)             | Security or penetration testing        |
+| Risk-based test case prioritization and reporting                         | Localization and accessibility testing |
 - 
 
 ### Tools & Resources
 
-- 
+- **Resources**
+
+| **Role**          | **Team Member** | **Key Responsibilities**                             | **Tools Used**                           |
+| ----------------- | --------------- | ---------------------------------------------------- | ---------------------------------------- |
+| **Test Manager**  | Wamahiga Ng'ang'a     | Create test plan, schedule, and monitor metrics      | GitHub Projects, Markdown |
+| **Risk Analyst**  | Vianney Ndagire | Identify and rate risks, design high-risk test cases | Excel/Sheets                             |
+| **Test Executor** | Lodrick Kibochi | Execute test cases, capture evidence, report defects | Chrome, GitHub Issues, Screen Recorder   |
 
 ### Schedule
 
-| Phase | Planned Duration | Actual Duration | Status |
-|-------|------------------|-----------------|--------|
-| | | | |
+| **Phase**                                               | **Planned Duration** | **Actual Duration** | **Status** |
+| ------------------------------------------------------- | -------------------- | ------------------- | ---------- |
+| Planning – Define objectives, scope, and schedule       | 1 hour               | 2 hours             | complete   |
+| Risk Analysis – Identify & prioritize functional risks  | 1 hour               | 1 hour              | done       |
+| Test Design – Draft & review ≥ 8 test cases             | 2 hours              | 2 hours             | completed  |
+| Execution Round 1 – Execute initial tests & log defects | 2 hours              | 2 hours             | finished   |
+| Review & Fix Verification – Validate resolved issues    | 2 hours              | 2 hours             | complete   |
+| Regression Testing – Re-run affected cases              | 1 hour               | 1 hour              | done       |
+| Metrics & Reporting – Update metrics, finalize report   | 1 hour               | 1 hour              | executed   |
+
+⏳ **Total Planned Duration = 11 hours**
 
 ## Risk Analysis
 | ID     | Feature                   | Risk Description                                                                    | Likelihood | Impact | Priority   | Mitigation Strategy                                                          |
