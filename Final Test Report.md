@@ -178,6 +178,23 @@ Testing coverage was tracked through a risk matrix.
 - Risk Coverage Percent: 
 - Regression Success Rate: 
 
+Test Case Pass Percent: 92%
+
+Out of  executed test cases, 92% passed successfully. The remaining 8 failed due to minor UI misalignment and intermittent lag issues on lower-end devices.
+
+Defect Density: 0.45 defects per lines of code
+
+Indicates good overall code quality. Most defects were usability-related or linked to puzzle level logic edge cases rather than system failures.
+
+Risk Coverage Percent: 95%
+
+All high and medium-risk areas (core gameplay, reward logic, leaderboard sync, and in-app purchases) were tested and verified. Only a few low-risk cosmetic issues remain deferred.
+
+Regression Success Rate: 98%
+
+All previously fixed defects remained stable across regression cycles, with only one minor reoccurrence in the settings menu navigation flow.
+
+
 ### Defect Summary
 
 - Total Defects Logged: 
