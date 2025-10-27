@@ -207,10 +207,12 @@ All previously fixed defects remained stable across regression cycles, with only
 
 | Phase | Deliverable | Actual Output | Variance | Owner |
 |-------|-------------|---------------|----------|-------|
-| | | | | |
+|Monitoring tests executed |Ensuring tests are conducted in the right manner |Tests were well done |None. Everything went as planned |Test Manager |
 
 **Progress Tracking Method:**  
 **Change Control Notes:**
+Test monitoring was carried out as the tests were being conducted and everything worked out smoothly. 
+The tests were done and their reapective results were acquired and noted.
 
 ## Lessons Learned
 
