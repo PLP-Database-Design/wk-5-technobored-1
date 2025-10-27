@@ -211,6 +211,7 @@ All previously fixed defects remained stable across regression cycles, with only
 
 **Progress Tracking Method:**  
 **Change Control Notes:**
+
 Test monitoring was carried out as the tests were being conducted and everything worked out smoothly. 
 The tests were done and their reapective results were acquired and noted.
 
@@ -229,12 +230,13 @@ The tests were done and their reapective results were acquired and noted.
 
 | Name | Role | Initials | Date |
 |------|------|-----------|------|
-| | Test Manager | | |
+|Wamahiga Ng'ang'a | Test Manager |W.N |27/10/2025 |
 | | Risk Analyst | | |
 | | Test Executor | | |
 
 ## Overall Summary
 
 **Statement:** 
+This was a great learning experience for all of us and it helped us build up on our being a team player skill as well as our teating skills.
 
-**Test Status:** ☐ Completed / ☐ In Progress / ☐ Deferred
+**Test Status:** ☐ Completed / ☐✅ In Progress / ☐ Deferred
