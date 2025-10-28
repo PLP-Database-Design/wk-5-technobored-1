@@ -162,6 +162,7 @@ Testing coverage was tracked through a risk matrix.
 ## Test Cases
 
 | ID | Feature | Objective | Expected Result | Actual Result | Status | Risk Link |
+|----|---------|-----------|-----------------|---------------|--------|-----------|
 |TC-01|Reset Game|Score resets after reset|Score=0|Score reset to 0,solved puzzles=0,Hints=3|PASS|R2|
 |TC-02 |Leaderboard|Tops 3 scores display correctly|Sorted desc|Top 3 scores displayed:20,15,10|PASS|R1|
 |TC-03|Bonus Round|Scores doubles after 3 puzzles|Correct total|Total score=60|PASS|R3|
@@ -169,7 +170,8 @@ Testing coverage was tracked through a risk matrix.
 ## Defects
 
 | ID | Issue Title | Severity | Risk ID | Status | GitHub Link |
-|D1|Bonus Round not applied|High|R3|Open||
+|----|-------------|----------|---------|--------|-------------|
+|D1|Bonus Round not applied|High|R3|Open|https://github.com/PLP-Database-Design/wk-5-technobored-1/issues/new|
 |D2|Leaderboard misordered|Medium|R1|Closed https://github.com/PLP-Database-Design/wk-5-technobored-1/issues/2| |
 |D3|Reset Game not clearing hints|Medium|R2|Open|https://github.com/PLP-Database-Design/wk-5-technobored-1/issues/3|
 
