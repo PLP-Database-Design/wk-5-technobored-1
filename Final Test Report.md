@@ -162,21 +162,23 @@ Testing coverage was tracked through a risk matrix.
 ## Test Cases
 
 | ID | Feature | Objective | Expected Result | Actual Result | Status | Risk Link |
-|--TC-01--|---------|-----------|----------------|---------------|--------|-----------|
-| | | | | | | |
+|TC-01|Reset Game|Score resets after reset|Score=0|Score reset to 0,solved puzzles=0,Hints=3|PASS|R2|
+|TC-02 |Leaderboard |Tops 3 scores display correctly |Sorted desc | Top 3 scores displayed:20,15,10|PASS|R1 |
+|TC-03|Bonus Round|Scores doubles after 3 puzzles|Correct total|Total score=60|PASS|R3|
 
 ## Defects
 
 | ID | Issue Title | Severity | Risk ID | Status | GitHub Link |
-|----|-------------|----------|---------|--------|-------------|
-| | | | | | |
+|D1|Bonus Round not applied|High|R3|Open|-------------|
+|D2|Leaderboard misordered|Medium|R1|Closed | |
+|D3|Reset Game not clearing hints|Medium|R2|Open||
 
 ## Metrics
 
-- Test Case Pass Percent: 
-- Defect Density: 
-- Risk Coverage Percent: 
-- Regression Success Rate: 
+- Test Case Pass Percent: 100% Out of all executed test cases(8),all passed successfully 
+- Defect Density: 0.375 defects per  test case
+- Risk Coverage Percent:100%.All high and medium risk areas(Reset Game,Leaderboard,Bonus Round,Hint system)were tested and verified 
+- Regression Success Rate: 100% All previously fixed defects remained stable when re-tested during regression cycles
 
 Test Case Pass Percent: 92%
 
