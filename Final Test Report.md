@@ -173,7 +173,7 @@ Testing coverage was tracked through a risk matrix.
 |----|-------------|----------|---------|--------|-------------|
 |D1|Bonus Round not applied|High|R3|Open|https://github.com/PLP-Database-Design/wk-5-technobored-1/issues/new|
 |D2|Leaderboard misordered|Medium|R1|Closed |[https://github.com/PLP-Database-Design/wk-5-technobored-1/issues/2]https://github.com/Karmavian//wk-5-technobored-1/issues/2|
-|D3|Reset Game not clearing hints|Medium|R2|Open|https://github.com/PLP-Database-Design/wk-5-technobored-1/issues/3|
+|D3|Reset Game not clearing hints|Medium|R2|Open|[https://github.com/PLP-Database-Design/wk-5-technobored-1/issues/3]https://github.com/Karmavian//wk-5-technobored-1/issues/2|
 
 ## Metrics
 
