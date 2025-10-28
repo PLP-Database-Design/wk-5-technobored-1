@@ -12,7 +12,7 @@
 | Role | Name | Responsibilities |
 |------|------|------------------|
 | Test Manager |Wamahiga Ng'ang'a| Planning, scheduling, coordination, metric tracking |
-| Risk Analyst |Vianne Ndagire | Risk identification, prioritization, test design linkage |
+| Risk Analyst |Vianney Ndagire | Risk identification, prioritization, test design linkage |
 | Test Executor |Lodrick Kibochi | Execution, evidence capture, defect logging |
 ## Group Rules
 
@@ -162,7 +162,7 @@ Testing coverage was tracked through a risk matrix.
 ## Test Cases
 
 | ID | Feature | Objective | Expected Result | Actual Result | Status | Risk Link |
-|----|---------|-----------|----------------|---------------|--------|-----------|
+|--TC-01--|---------|-----------|----------------|---------------|--------|-----------|
 | | | | | | | |
 
 ## Defects
