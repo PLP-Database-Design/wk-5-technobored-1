@@ -65,8 +65,8 @@ The main objectives of this testing phase are to:
 | **Role**          | **Team Member** | **Key Responsibilities**                             | **Tools Used**                           |
 | ----------------- | --------------- | ---------------------------------------------------- | ---------------------------------------- |
 | **Test Manager**  | Wamahiga Ng'ang'a     | Create test plan, schedule, and monitor metrics      | GitHub Projects, Markdown |
-| **Risk Analyst**  | Vianney Ndagire | Identify and rate risks, design high-risk test cases | Excel/Sheets                             |
-| **Test Executor** | Lodrick Kibochi | Execute test cases, capture evidence, report defects | Chrome, GitHub Issues, Screen Recorder   |
+| **Risk Analyst**  | Lodrick Kibochi | Identify and rate risks, design high-risk test cases | Excel/Sheets                             |
+| **Test Executor** | Vianney Ndagire | Execute test cases, capture evidence, report defects | Chrome, GitHub Issues, Screen Recorder   |
 
 ### Schedule
 
