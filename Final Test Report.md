@@ -12,8 +12,8 @@
 | Role | Name | Responsibilities |
 |------|------|------------------|
 | Test Manager |Wamahiga Ng'ang'a| Planning, scheduling, coordination, metric tracking |
-| Risk Analyst |Vianney Ndagire | Risk identification, prioritization, test design linkage |
-| Test Executor |Lodrick Kibochi | Execution, evidence capture, defect logging |
+| Risk Analyst |Lodrick Kibochi| Risk identification, prioritization, test design linkage |
+| Test Executor |Vianney Ndagire| Execution, evidence capture, defect logging |
 ## Group Rules
 
 - Each student must belong to only one group.
@@ -234,7 +234,7 @@ The tests were done and their reapective results were acquired and noted.
 |------|------|-----------|------|
 |Wamahiga Ng'ang'a | Test Manager |W.N |27/10/2025 |
 | | Risk Analyst | | |
-| | Test Executor | | |
+|Vianney Ndagire | Test Executor | Test executor|28/10/2025 |
 
 ## Overall Summary
 
