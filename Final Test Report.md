@@ -235,8 +235,8 @@ The tests were done and their reapective results were acquired and noted.
 | Name | Role | Initials | Date |
 |------|------|-----------|------|
 |Wamahiga Ng'ang'a | Test Manager |W.N |27/10/2025 |
-| | Risk Analyst | | |
-|Vianney Ndagire | Test Executor | Test executor|28/10/2025 |
+|:Lodrick Kibochi| Risk Analyst |:L.K | 27/10/2025 |
+|Vianney Ndagire | Test Executor | V.N |28/10/2025 |
 
 ## Overall Summary
 
